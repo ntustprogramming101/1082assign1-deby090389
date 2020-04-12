@@ -50,7 +50,6 @@ void setup() {
 }
 
 
-
 void draw() {
 
  image(skyImg,0,0);//sky
